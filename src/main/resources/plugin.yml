@@ -2,3 +2,5 @@ name: WeAutoBounds
 version: '${version}'
 main: ru.ijo42.autobounds.WeAutoBounds
 authors: [ ijo42 ]
+commands:
+  autobound:
